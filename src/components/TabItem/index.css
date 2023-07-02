@@ -1,0 +1,16 @@
+.tab-name {
+  font-size: 15px;
+  text-decoration: underline;
+  padding: 10px;
+  cursor: pointer;
+}
+.tab-name-blue {
+  font-size: 15px;
+  text-decoration: underline;
+  color: blue;
+  cursor: pointer;
+}
+.btn {
+  border: 0px;
+  outline: none;
+}

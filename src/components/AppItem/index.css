@@ -1,0 +1,15 @@
+.app-image {
+  width: 60px;
+  height: 60px;
+}
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 120px;
+  height: 130px;
+  background-color: white;
+  margin: 10px;
+  border-radius: 8px;
+}
